@@ -1,0 +1,42 @@
+
+html {
+    height: 100%;  
+}
+
+
+#content {
+    text-align: center;
+    padding-top: 25%;  
+   
+
+}
+
+body {
+    background: url(https://cdn.pixabay.com/photo/2018/05/09/21/47/cat-3386220_960_720.jpg);
+    
+    background-size: cover;
+    background-position: top;
+    
+}
+
+
+#heading1, h1 {
+    font-weight: 700;
+    font-size: 5em;
+    color: white;
+    font-family: lato;
+
+}
+
+
+#heading3 {
+    color: white;
+}
+
+
+#rule {
+    border-color: white;
+    width: 400px;
+    border-top: 1px solid #f8f8f8;
+    border-bottom: 1px solid rgba(0,0,0,0,2);
+}
